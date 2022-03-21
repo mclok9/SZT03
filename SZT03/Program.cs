@@ -6,6 +6,7 @@ namespace SZT03
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Szerbusz világ!");
             Console.ReadLine();
         }
     }
