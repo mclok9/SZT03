@@ -11,4 +11,10 @@ namespace SZT03
         public string Name { get; set; }
         public int Age { get; set; }
     }
+
+    public class Car
+    {
+        public string Model { get; set; }
+        public int Price { get; set; }
+    }
 }
