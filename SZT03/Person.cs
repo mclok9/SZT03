@@ -11,6 +11,8 @@ namespace SZT03
         public int Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
+        public DateTime MotherBirthDate { get; set; }
+        public string MotherName { get; set; }
     }
 
     public class Car
